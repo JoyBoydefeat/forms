@@ -1,0 +1,109 @@
+img{width: 552.513px;
+    height: 480.015px;
+    margin-left: 12%;
+    position: relative;
+    position: fixed;
+    margin-top: 10%;
+}
+.Necessities{
+    margin-left: 60%;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-top: 12%;
+}   
+h1{
+    width: 473px;
+    height: 101px;
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 41px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+h2{ width: 500px;
+    height: 65px;
+    flex-shrink: 0;
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 535;
+    line-height: normal;
+}
+.number1{
+    width: 199px;
+    height: 35.554px;
+    flex-shrink: 0;
+    border-radius: 35px;
+    background: #3EB25E;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 22px;
+    border: #3EB25E;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 28%;
+}
+.number1:hover{
+    width: 199px;
+    height: 35.554px;
+    flex-shrink: 0;
+    border-radius: 35px;
+    background: #FFFF7D;
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 22px;
+    border: #3EB25E;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 28%;
+}
+.number2{
+    width: 199px;
+    height: 35.554px;
+    flex-shrink: 0;
+    border-radius: 35px;
+    background: #3EB25E;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 22px;
+    border: #3EB25E;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 28%;
+}
+.number2:hover{
+    width: 199px;
+    height: 35.554px;
+    flex-shrink: 0;
+    border-radius: 35px;
+    background: #FFFF7D;
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 22px;
+    border: #3EB25E;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 28%;
+}

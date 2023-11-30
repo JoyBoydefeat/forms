@@ -1,0 +1,68 @@
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-right: 25%;
+}
+.Necessities{
+    margin-left: 60%;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+
+h5{
+    width: 470px;
+    height: 40px;
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+button {
+    width: 199px;
+    height: 35.554px;
+    border-radius: 35px;
+    background: #3EB25E;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 22px;
+    border: #3EB25E;
+    font-style: normal;
+    font-weight: 700;
+}
+
+button:hover{
+    width: 199px;
+    height: 35.554px;
+    border-radius: 35px;
+    background: #FFFF7D;
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 22px;
+    border: #3EB25E;
+    font-style: normal;
+    font-weight: 700;
+}.number3{
+    width: 405px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1080px;
+    width: 100%;
+}
+.number1{
+
+}
+.number2{
+    
+}

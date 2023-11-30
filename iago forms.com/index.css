@@ -1,0 +1,70 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1080px;
+    width: 100%;
+}
+
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.welcome{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+} 
+
+h1{
+    color: hwb(0 0% 100%);
+    text-align: center;
+    font-family: Roboto;
+    font-size: 111px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+h2{ 
+    width: 550px;
+    height: 47px;
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+button{
+    width: 199px;
+    height: 35.554px;
+    border-radius: 35px;
+    background: #3EB25E;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 22px;
+    border: #3EB25E;
+    font-style: normal;
+    font-weight: 700;
+}
+
+button:hover{
+    width: 199px;
+    height: 35.554px;
+    border-radius: 35px;
+    background: #FFFF7D;
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 22px;
+    border: #3EB25E;
+    font-style: normal;
+    font-weight: 700;
+}
